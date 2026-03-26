@@ -5,6 +5,12 @@ A rocket engine repository of the design.
 ## Overview
 A rocket engine is a propulsion system that generates thrust by expelling mass at high velocity. It operates based on Newton’s Third Law of Motion: every action has an equal and opposite reaction.
 
+##My rocket design
+Here is my rocket engine design, it uses 2 venturi effect inletsto push the lower pressure fuel into the higher pressure nitrous oxide, this should allow the nitrous oxide to have a higher ratio over the fuel, and hopefully propel the fuel as well.
+<img width="1035" height="708" alt="image" src="https://github.com/user-attachments/assets/55d39017-8d10-4ca4-9e63-326ffedd7796" />
+<img width="1125" height="480" alt="image" src="https://github.com/user-attachments/assets/1551f109-9d35-43ab-8180-64619c80046b" />
+
+
 ## How It Works
 Fuel and oxidizer are combined in a combustion chamber, producing high-temperature, high-pressure gases. These gases expand rapidly and are expelled through a nozzle, generating thrust.
 
@@ -13,22 +19,22 @@ Fuel and oxidizer are combined in a combustion chamber, producing high-temperatu
 ### Combustion Chamber
 The combustion chamber is where the fuel and oxidizer mix and burn. It must withstand extreme temperatures and pressures.
 
-![Combustion Chamber](https://upload.wikimedia.org/wikipedia/commons/4/4c/Rocket_engine_combustion_chamber_diagram.png)
+<img width="866" height="487" alt="image" src="https://github.com/user-attachments/assets/c7362ff6-202b-49d7-93b8-78b7c38527fe" />
 
 ### Nozzle
 The nozzle accelerates exhaust gases to supersonic speeds. Most rocket engines use a converging-diverging (de Laval) nozzle.
 
-![Nozzle Diagram](https://upload.wikimedia.org/wikipedia/commons/6/6f/De_Laval_Nozzle.svg)
+<img width="709" height="532" alt="image" src="https://github.com/user-attachments/assets/79fc4837-33c4-410b-aa27-47d37ce47c73" />
+
 
 ### Propellant Tanks
 These tanks store the fuel and oxidizer separately until they are fed into the combustion chamber.
 
-![Fuel Tanks](https://upload.wikimedia.org/wikipedia/commons/5/5e/Saturn_V_S-IC_stage.jpg)
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/d9bfa7f5-d0f2-4c14-b4d1-49f9166a51b9" />
 
 ### Turbopump
 In liquid rocket engines, turbopumps move propellants into the combustion chamber at very high pressures.
 
-![Turbopump](https://upload.wikimedia.org/wikipedia/commons/9/9c/Rocketdyne_F-1_engine_turbopump.jpg)
 
 ## Types of Rocket Engines
 
@@ -38,7 +44,8 @@ Liquid engines use separate fuel and oxidizer tanks. They allow for throttling a
 ### Solid Rocket Engines
 Solid engines contain pre-mixed fuel and oxidizer in a solid grain. Once ignited, they burn until all propellant is consumed.
 
-![Solid Rocket Booster](https://upload.wikimedia.org/wikipedia/commons/7/7a/Space_Shuttle_SRB_ignition.jpg)
+<img width="1024" height="574" alt="image" src="https://github.com/user-attachments/assets/a1ae0a75-4d8f-4745-b6d8-58ca61b310f3" />
+
 
 ### Hybrid Rocket Engines
 Hybrid engines use a combination of solid and liquid propellants, offering a balance between simplicity and control.
