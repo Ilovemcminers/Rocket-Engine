@@ -2,8 +2,13 @@
 # Rocket-Engine
 A rocket engine repository of the design.
 
-## Overview
-A rocket engine is a propulsion system that generates thrust by expelling mass at high velocity. It operates based on Newton’s Third Law of Motion: every action has an equal and opposite reaction.
+## Project Description
+This rocket engine is an experimental design that leverages two venturi-effect inlets to draw fuel into high-pressure nitrous oxide. By creating regions of low pressure at the fuel inlets, the venturi effect allows the oxidizer to dominate the mixture ratio while still propelling the fuel efficiently. This carefully balanced system aims to maximize thrust and fuel efficiency, while demonstrating principles of fluid dynamics and propulsion in a tangible, hands-on way. The design also emphasizes safety, modularity, and precise control over the fuel-to-oxidizer mixture, showcasing how small-scale experiments can reflect real-world aerospace engineering challenges.
+
+## Why I Made This Project
+I created this project to combine curiosity, engineering, and creativity in a single hands-on experiment. I have always been fascinated by how controlled bursts of energy can produce motion, and I wanted to see these concepts come alive in a real engine. Beyond just building a functional model, I wanted to explore the science of fluid dynamics, the venturi effect, and the careful balance required between fuel and oxidizer. This project challenged me to think critically, problem-solve, and apply theoretical knowledge to practical design—skills that extend far beyond the lab.  
+
+Ultimately, this engine represents more than just a mechanical device; it is a personal exploration of innovation, perseverance, and the thrill of turning ideas into tangible results. By experimenting with fuel delivery, high-pressure gases, and nozzle optimization, I am laying the foundation for a deeper understanding of propulsion systems and preparing myself for future challenges in aerospace engineering and scientific exploration.
 
 ##My rocket design
 Here is my rocket engine design, it uses 2 venturi effect inletsto push the lower pressure fuel into the higher pressure nitrous oxide, this should allow the nitrous oxide to have a higher ratio over the fuel, and hopefully propel the fuel as well.
